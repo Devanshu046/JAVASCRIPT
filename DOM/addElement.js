@@ -12,5 +12,5 @@ div.appendChild(newBtn); //after the entire element
 
 
 //remove node
-let para = document.querySelector("p")
-para.remove();
+// let para = document.querySelector("p")
+// para.remove();

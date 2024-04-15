@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    height: 50px;
+    background-color: black;
+    color: white;
+    display: flex;
+    text-align: center;
+}
+a{
+    padding: 10px;
+    font-size: 30px;
+}
+#userform,
+#todo,
+#btn-submit
+#data{
+    font-size: 20px;
+}
+
